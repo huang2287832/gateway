@@ -1,0 +1,41 @@
+[
+  {
+    "server_no": 10001,
+    "server_name": "黄亮8001",
+    "server_ip": "192.168.1.187",
+    "server_port": 8001,
+    "state": "open|run|new",
+    "icon": "china",
+    "start_time": 33058166400
+  },
+
+  {
+    "server_no": 10002,
+    "server_name": "黄亮8005",
+    "server_ip": "192.168.1.187",
+    "server_port": 8005,
+    "state": "open|run|new",
+    "icon": "china",
+    "start_time": 33058166400
+  },
+
+  {
+    "server_no": 10003,
+    "server_name": "黄亮10007",
+    "server_ip": "118.89.179.215",
+    "server_port": 10007,
+    "state": "open|run|new",
+    "icon": "china",
+    "start_time": 33058166400
+  },
+
+  {
+    "server_no": 10004,
+    "server_name": "冯铸8007",
+    "server_ip": "192.168.1.95",
+    "server_port": 8007,
+    "state": "open|run|new",
+    "icon": "china",
+    "start_time": 33058166400
+  }
+]

@@ -1,0 +1,5 @@
+panic: port file is error
+
+goroutine 1 [running]:
+main.init.0()
+	/home/hb/golang/src/gateway/main.go:22 +0x264
